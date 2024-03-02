@@ -258,7 +258,7 @@ li.slick-active button{
 }
 
 .slick-slide:focus { outline: none; }
-}
+
 @media screen and (max-width: 768px) {
     .lista-B..img-B{
         width: 100%;
