@@ -308,7 +308,7 @@ section.contato form{
     border-radius: 18px;
 }
 @media screen and (max-width: 768px) {
-    .lista-B..img-B{
+    .lista-B.img-B{
         width: 100%;
         margin-bottom: 30px;
     }
