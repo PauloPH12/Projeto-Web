@@ -307,6 +307,15 @@ section.contato form{
     font-size: 18px;
     border-radius: 18px;
 }
+footer{
+    padding: 10px 0;
+    background: #255AFF;
+    color: white;
+}
+.text-footer{
+    width: 50%;
+    padding: 8px 0;
+}
 @media screen and (max-width: 768px) {
     .lista-B.img-B{
         width: 100%;
